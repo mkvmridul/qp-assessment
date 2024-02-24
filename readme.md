@@ -1,5 +1,7 @@
 HOW TO START APP
-==> npm run start (note .env is also pushed)
+1. npm install
+2. npm run start 
+note .env is also pushed
 
 
 This is an Node APP for groceries booking.
